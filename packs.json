@@ -1,8 +1,8 @@
 [
     {
         "cgdb_id": 1,
-        "code": "WE",
-        "cycle_code": "winter",
+        "code": "Core",
+        "cycle_code": "core",
         "date_release": "2005-01-01",
         "name": "Winter Edition",
         "size": 1
