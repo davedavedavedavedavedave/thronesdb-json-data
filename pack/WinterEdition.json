@@ -855,7 +855,7 @@
         "position": 45,
         "code": "02045",
         "illustrator": "Rare",
-        "type_code": "plot",
+        "type_code": "character",
         "cost": 5,
         "faction_code": "baratheon",
         "name": "Melisandre",
