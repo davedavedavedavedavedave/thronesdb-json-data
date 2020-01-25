@@ -1,12 +1,12 @@
 [
     {
-        "code": "winter",
-        "name": "Winter Edition",
+        "code": "draftpack",
+        "name": "Draft Pack",
         "size": 1
     },
     {
-        "code": "draftpack",
-        "name": "Draft Pack",
+        "code": "winter",
+        "name": "Winter Edition",
         "size": 1
     }
 ]

@@ -27,7 +27,7 @@
         "pack_code": "Draftpack",
         "position": 2,
         "quantity": 1,
-        "text": "You need an additional 5 power to win the game.\n<i>Nichtswatch</i> characters you control can be declare as attackers or defenders during <military> or <power> challenges.",
+        "text": "You need an additional 5 power to win the game.\n<i>Nichtswatch</i> characters you control can be declare as attackers or defenders during [military] or [power] challenges.",
         "traits": "",
         "type_code": "agenda"
     },
