@@ -1,6 +1,14 @@
 [
     {
         "cgdb_id": 1,
+        "code": "Draftpack",
+        "cycle_code": "draftpack",
+        "date_release": "2004-01-01",
+        "name": "Draft Pack",
+        "size": 14
+    },
+    {
+        "cgdb_id": 2,
         "code": "Winter",
         "cycle_code": "winter",
         "date_release": "2005-01-01",

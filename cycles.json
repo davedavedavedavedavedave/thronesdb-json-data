@@ -3,5 +3,10 @@
         "code": "winter",
         "name": "Winter Edition",
         "size": 1
+    },
+    {
+        "code": "draftpack",
+        "name": "Draft Pack",
+        "size": 1
     }
 ]
