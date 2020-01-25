@@ -1,7 +1,7 @@
 [
     {
         "claim": 1,
-        "code": "01227",
+        "code": "02227",
         "deck_limit": 1,
         "faction_code": "lannister",
         "flavor": "",
@@ -21,7 +21,7 @@
     },
     {
         "claim": 1,
-        "code": "01221",
+        "code": "02221",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -41,7 +41,7 @@
     },
     {
         "claim": 1,
-        "code": "01228",
+        "code": "02228",
         "deck_limit": 1,
         "faction_code": "baratheon",
         "flavor": "",
@@ -61,7 +61,7 @@
     },
     {
         "claim": 1,
-        "code": "01224",
+        "code": "02224",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -81,7 +81,7 @@
     },
     {
         "claim": 1,
-        "code": "01220",
+        "code": "02220",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -101,7 +101,7 @@
     },
     {
         "claim": 1,
-        "code": "01240",
+        "code": "02240",
         "deck_limit": 1,
         "faction_code": "stark",
         "flavor": "",
@@ -121,7 +121,7 @@
     },
     {
         "claim": 1,
-        "code": "01225",
+        "code": "02225",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -141,7 +141,7 @@
     },
     {
         "claim": 1,
-        "code": "01237",
+        "code": "02237",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -161,7 +161,7 @@
     },
     {
         "claim": 1,
-        "code": "01010",
+        "code": "02010",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -181,7 +181,7 @@
     },
     {
         "claim": 1,
-        "code": "01007",
+        "code": "02007",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -201,7 +201,7 @@
     },
     {
         "claim": 1,
-        "code": "01217",
+        "code": "02217",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -221,7 +221,7 @@
     },
     {
         "claim": 1,
-        "code": "01011",
+        "code": "02011",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -241,7 +241,7 @@
     },
     {
         "claim": 1,
-        "code": "01008",
+        "code": "02008",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -261,7 +261,7 @@
     },
     {
         "claim": 2,
-        "code": "01216",
+        "code": "02216",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -281,7 +281,7 @@
     },
     {
         "claim": 1,
-        "code": "01009",
+        "code": "02009",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -301,7 +301,7 @@
     },
     {
         "claim": 1,
-        "code": "01215",
+        "code": "02215",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
@@ -321,7 +321,7 @@
     },
     {
         "claim": 1,
-        "code": "01230",
+        "code": "02230",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "",
