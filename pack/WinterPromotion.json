@@ -1,0 +1,19 @@
+[
+    {
+        "position": 8,
+        "code": "05008",
+        "illustrator": "Promo",
+        "type_code": "attachment",
+        "cost": 1,
+        "faction_code": "neutral",
+        "name": "∞ Old Bear's Crow",
+        "is_unique": false,
+        "deck_limit": 3,
+        "flavor": "",
+        "traits": "Creature. Retainer.",
+        "text": "Setup.\nAttached character gains renown.\n<b>Any phase:</b> move Old Bear's Crow to a different character (limit once per phase).\n<b>Dominance:</b> kneel 2 influence to attach Old Bear's Crow to a character you control. Use this ability only while Old Bear's Crow is in your discard pile.",
+        "pack_code": "WinterEdition",
+        "quantity": 1,
+        "is_loyal": false
+    }
+]
