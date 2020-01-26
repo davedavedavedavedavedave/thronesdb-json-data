@@ -77,7 +77,7 @@
         "pack_code": "Draftpack",
         "position": 5,
         "quantity": 1,
-        "text": "+1 Income. +1 Influence.",
+        "text": "+1 income\n+1 influence",
         "traits": "Westeros.",
         "type_code": "location"
     },
@@ -94,7 +94,7 @@
         "pack_code": "Draftpack",
         "position": 6,
         "quantity": 1,
-        "text": "Limited.\n+2 Income. +2 Influence.",
+        "text": "Limited.\n+2 income\n+2 influence",
         "traits": "Westeros.",
         "type_code": "location"
     },
