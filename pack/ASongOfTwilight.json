@@ -2123,7 +2123,7 @@
         "position": 109,
         "code": "02109",
         "illustrator": "Common",
-        "type_code": "character",
+        "type_code": "location",
         "cost": 0,
         "faction_code": "neutral",
         "name": "The Frozen Shore",
