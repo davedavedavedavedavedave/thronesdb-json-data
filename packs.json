@@ -16,6 +16,14 @@
         "size": 1
     },
     {
+        "cgdb_id": 3,
+        "code": "ASongOfTwilight",
+        "cycle_code": "winter",
+        "date_release": "2005-01-01",
+        "name": "A Song of Twilight",
+        "size": 1
+    },
+    {
         "cgdb_id": 5,
         "code": "WinterPromotion",
         "cycle_code": "winter",
