@@ -1437,7 +1437,7 @@
         "is_loyal": false,
         "text": "Deathbound.\nAfter you play First Ranger from your hand, discard from play all other copies of attached character.\nAll copies of attached character you own or control are considered unique, gain the <i>Night's Watch</i> trait, and cannot be killed.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1454,7 +1454,7 @@
         "is_loyal": false,
         "text": "<i>Night's Watch</i> character only.\nWhile attached character is attacking, raise the Claim value on your revealed plot card by 1 for each <i>Others</i> plot card revealed.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1471,7 +1471,7 @@
         "is_loyal": false,
         "text": "Deathbound.\nAfter you play Lord of Harrenhal from your hand, discard from play all other copies of attached character.\nAll copies of attached character you own or control are considered unique, gain the <i>Lord</i> trait, and gets +4 STR.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1488,7 +1488,7 @@
         "is_loyal": false,
         "text": "Deathbound.\nAfter you play War Band Leader from your hand, discard from play all other copies of attached character.\nAll copies of attached character you own or control are considered unique, gain the <i>Wildling</i> trait, deadly, stealth, renown and are immune to events.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1505,7 +1505,7 @@
         "is_loyal": false,
         "text": "Deathbound.\n<b>Any phase:</b> kneel 2 influence to give attached character the <i>Night's Watch</i> or <i>Wildling</i> trait until the end of the phase.\n<b>Dominance:</b> kneel 3 influence to return Black Raven from your dead pile to your hand.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1522,7 +1522,7 @@
         "is_loyal": false,
         "text": "Deathbound.\nAttached character gains an [intrigue] and a [power] icon.\n<b>Dominance:</b> return Court Counsel from your dead pile to your hand.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1539,7 +1539,7 @@
         "is_loyal": false,
         "text": "Deathbound.\nAttached character gets +2 STR and gains a [military] icon.\n<b>Dominance:</b> return War Counsel from your dead pile to your hand.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1556,7 +1556,7 @@
         "is_loyal": false,
         "text": "<i>Wildling</i> character only.\nWhile attached character is attacking Bone Axe gains \"<b>Challenges:</b> kneel Bone Axe to choose and kill another participating character with STR 2 or lower.\"",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1577,7 +1577,7 @@
         "is_loyal": false,
         "text": "<b>Any phase:</b> choose and discard a <i>Wildling</i> character from play (cannot be saved) to choose and kill a <i>Night's Watch</i> character with STR 2 or lower.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1598,7 +1598,7 @@
         "is_loyal": false,
         "text": "You may pay a +2 gold penalty while playing Craster from your hand (cannot be ignored).\n<b>Response:</b> after you play Craster with a gold penalty, kneel all <i>Night's Watch</i> characters.\n[doomed]",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1619,7 +1619,7 @@
         "is_loyal": false,
         "text": "Mance Rayder cannot be killed.",
         "flavor": "\"We free folk know things you kneelers have forgotten. Sometimes the short road is not the safest Jon Snow. The Horned Lord once said sorcery is a sword without a hilt. Ther is no safe way to grasp it.\"",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1640,7 +1640,7 @@
         "is_loyal": false,
         "text": "No attachments.\n<b>Response</b> save a <i>The North</i> location from being discarded (limit once per phase).",
         "flavor": "Donal Noye did not return, nor any of them who went down with him to hold that cold black tunnel.",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1661,7 +1661,7 @@
         "is_loyal": false,
         "text": "No attachments.\nYou may pay a +1 gold penalty while playing Grenn from your hand (cannot be ignored).\n<b>Response:</b> after you play Grenn with a gold penalty, choose a <i>Wildling</i> character. Return that character to its owner's hand.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1682,7 +1682,7 @@
         "is_loyal": false,
         "text": "While there are more <i>Night's Watch</i> characters than <i>Wildling</i> characters in play, lower the printed cost to play Harma Dogshead to 0.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1703,7 +1703,7 @@
         "is_loyal": false,
         "text": "No attachments.\n<b>Challenges:</b> choose a <i>Night's Watch</i> character. Until the end of the phase, that character gains stealth (limit once per phase).\n[doomed]",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1724,7 +1724,7 @@
         "is_loyal": false,
         "text": "No attachments.\n<b>Response:</b> after you win a challenge in which at least 1 <i>Night's Watch</i> character particpated, draw a card.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1745,7 +1745,7 @@
         "is_loyal": false,
         "text": "Deadly. Renown.\nWhile Ryk Longspear is attacking or defending, <i>Night's Watch</i> characters get -1 STR.\n[doomed]",
         "flavor": "Jons's sword hand opened and closed, flexing his burned fingers beneath his glove, but Longspear Ryk only laughed.",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1766,7 +1766,7 @@
         "is_loyal": false,
         "text": "No attachments.\n<b>Any phase:</b> kneel Samwell Tarly to look at the top 4 cards of your deck. Switch any one of those cards with a card in your hand, if able. Then, put the remaining cards on top of your deck in any order.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1787,7 +1787,7 @@
         "is_loyal": false,
         "text": "<b>Dominance:</b> kneel Thoren Smallwood and 2 influence to choose and discard from play a <i>Creature</i> or <i>Wildling</i> character.\n[doomed]",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1808,7 +1808,7 @@
         "is_loyal": false,
         "text": "No attachments.\n<b>Any phase:</b> kneel 1 influence to choose a character. Until the end of the phase, that character loses deadly and Tormund Giantsbane gains deadly.\n[doomed]",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1829,7 +1829,7 @@
         "is_loyal": false,
         "text": "<b>Challenges:</b> kneel Blackmailing Servant to choose and kneel a character with 2 or more attachments.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1850,7 +1850,7 @@
         "is_loyal": false,
         "text": "<b>Response:</b> after you play Bringer of Ill Tidings from your hand, each player may put into play a <i>Night's Watch</i> or <i>Messenger</i> character from his or her hand.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1871,7 +1871,7 @@
         "is_loyal": false,
         "text": "<b>Response:</b> after you play Harbinger of Woes from your hand, choose 1 <i>Wildling</i> or <i>Messenger</i> character controlled by each player, if able. Each of those characters claims 1 power.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1892,7 +1892,7 @@
         "is_loyal": false,
         "text": "No attachments.\n<b>Any phase:</b> kill Ranger Scout (cannot be saved) to choose a <i>Night's Watch</i> character. Until the end of the phase, that character gets +2 STR and gains deadly.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1913,7 +1913,7 @@
         "is_loyal": false,
         "text": "<b>Any phase:</b> kneel the Stranger's Septon to choose a character. Until the end of the phase, that character gets +X STR, where X is the number of cards in your dead pile.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1934,7 +1934,7 @@
         "is_loyal": false,
         "text": "<b>Response:</b> after you play Vanguard Herald from your hand, each player may return a character he or she owns to its owner's hand.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1955,7 +1955,7 @@
         "is_loyal": false,
         "text": "No attachments.\n<b>Response:</b> after Wandering Crow is killed, put the top card of your deck into play, face down, as a character named \"Recruit.\" It has the <i>Night's Watch</i> trait, 1 STR, a [military] icon, and the no attachments keyword.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1976,7 +1976,7 @@
         "is_loyal": false,
         "text": "No attachments. Deadly.\n<b>Response</b> after Wildling Rabble is killed, put the top card of your deck into play, face down, as a character named \"Free Folk.\" It has the <i>Wildling</i> trait, 2 STR, and a [military] and a [power] icon. At the end of the phase, discard all cards named Free Folk from play (cannot be saved).",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -1997,7 +1997,7 @@
         "is_loyal": false,
         "text": "<b>Marshalling:</b> kill Young Spearwife (cannot be saved) to lower the cost of the next <i>Wildling</i> character you play this phase by 2.",
         "flavor": "\"A man can own a woman or a man can own a knife.\" -Ygritte",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -2014,7 +2014,7 @@
         "is_loyal": false,
         "text": "Deathbound.\n<b>Any phase:</b> kneel Craster's Keep to put the top card of your deck into play, face down, as a character named \"Free Folk.\" It has the <i>Wildling</i> trait, 2 STR, and a [military] and a [power] icon. At the end of the phase, discard all cards named Free Folk from play (cannot be saved).\n[doomed]",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -2031,7 +2031,7 @@
         "is_loyal": false,
         "text": "Deathbound.\n<b>Any phase:</b> kneel Westwatch by-the-Bridge to put the top card of your deck into play, face down, as a character named \"Recruit.\" It has the <i>Night's Watch</i> trait, 1 STR, a [military] icon and the no attachments keyword.\n[doomed]",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -2048,7 +2048,7 @@
         "is_loyal": false,
         "text": "<b>Any phase:</b> kneel Bay of Ice and kneel 1 influence to choose a character. Until the end of the phase, that character cannot be killed.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -2065,7 +2065,7 @@
         "is_loyal": false,
         "text": "Limited.\n<b>Marshalling:</b> kneel Camps on the Milkwater to lower the cost of the next <i>Wildling</i> character you play this phase by 1.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -2082,7 +2082,7 @@
         "is_loyal": false,
         "text": "<b>Marshalling:</b> kneel Greywater Swamp to raise the cost of the next character played this phase by 1. This is considered to be a gold penalty.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -2099,7 +2099,7 @@
         "is_loyal": false,
         "text": "After a player loses an unopposed challenge, he or she must discard the top 4 cards of his or her deck.",
         "flavor": "\"Your brother fell upon my uncle Stafford, encamped with his host at a village called Oxcross not three days ride from Casterly Rock.\" -Lord Tyrion Lannister",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -2116,7 +2116,7 @@
         "is_loyal": false,
         "text": "Limited.\n<b>Marshalling:</b> kneel Stronghold on the Wall to lower the cost of the next <i>Night's Watch</i> character you play this phase by 1.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     },
     {
@@ -2133,7 +2133,7 @@
         "is_loyal": false,
         "text": "<b>Any phase:</b> kneel The Frozen Shore to choose a location with printed cost 3 or higher. Until the end of the phase, that location is immune to events and character abilities.",
         "flavor": "",
-        "pack_code": "WinterEdition",
+        "pack_code": "ASongOfTwilight",
         "quantity": 1
     }
 ]
