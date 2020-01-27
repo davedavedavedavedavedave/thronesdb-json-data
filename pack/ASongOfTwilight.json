@@ -213,11 +213,11 @@
         "cost": 2,
         "faction_code": "stark",
         "is_loyal": false,
-        "name": "More Town Brothel",
+        "name": "Mole Town Brothel",
         "is_unique": false,
         "deck_limit": 6,
         "traits": "The North.",
-        "text": "Discard Mole Town Brothel from play at any time there are more <i>Wildling</i> characters than <i>Night's Watch</i> characters in play.\n<b>Any phase:</b>kneel 1 influence to choose and stand a defending character.",
+        "text": "Discard Mole Town Brothel from play at any time there are more <i>Wildling</i> characters than <i>Night's Watch</i> characters in play.\n<b>Any phase:</b> kneel 1 influence to choose and stand a defending character.",
         "flavor": "",
         "pack_code": "ASongOfTwilight",
         "quantity": 1
