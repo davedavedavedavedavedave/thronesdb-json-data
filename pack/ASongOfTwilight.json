@@ -226,7 +226,7 @@
         "position": 12,
         "code": "03012",
         "illustrator": "Common",
-        "type_code": "character",
+        "type_code": "location",
         "cost": 1,
         "faction_code": "stark",
         "is_loyal": false,
