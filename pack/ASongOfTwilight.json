@@ -934,7 +934,7 @@
         "position": 48,
         "code": "03048",
         "illustrator": "Rare",
-        "type_code": "character",
+        "type_code": "location",
         "cost": 0,
         "faction_code": "greyjoy",
         "is_loyal": false,
