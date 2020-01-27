@@ -1295,8 +1295,8 @@
         "is_power": false,
         "strength": 3,
         "deck_limit": 6,
-        "traits": "Stealth. Deadly.\n<b>Dominance:</b> return Son of the Red Viper from your dead pile to your hand. Use this ability only if there are at least 3 characters in your dead pile.",
-        "text": "",
+        "traits": "Bastard.",
+        "text": "Stealth. Deadly.\n<b>Dominance:</b> return Son of the Red Viper from your dead pile to your hand. Use this ability only if there are at least 3 characters in your dead pile.",
         "flavor": "",
         "pack_code": "ASongOfTwilight",
         "quantity": 1
