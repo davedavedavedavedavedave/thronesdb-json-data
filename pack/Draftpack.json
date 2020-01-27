@@ -50,7 +50,7 @@
     {
         "code": "01004",
         "cost": 0,
-        "deck_limit": 3,
+        "deck_limit": 6,
         "faction_code": "neutral",
         "flavor": "",
         "illustrator": "Fixed",
@@ -67,7 +67,7 @@
     {
         "code": "01005",
         "cost": 2,
-        "deck_limit": 3,
+        "deck_limit": 6,
         "faction_code": "neutral",
         "flavor": "",
         "illustrator": "Fixed",
@@ -84,7 +84,7 @@
     {
         "code": "01006",
         "cost": 3,
-        "deck_limit": 3,
+        "deck_limit": 6,
         "faction_code": "neutral",
         "flavor": "",
         "illustrator": "Fixed",
@@ -201,7 +201,7 @@
     {
         "code": "01012",
         "cost": 0,
-        "deck_limit": 3,
+        "deck_limit": 6,
         "faction_code": "neutral",
         "flavor": "",
         "illustrator": "Fixed",
@@ -218,7 +218,7 @@
     {
         "code": "01013",
         "cost": 2,
-        "deck_limit": 3,
+        "deck_limit": 6,
         "faction_code": "neutral",
         "flavor": "",
         "illustrator": "Fixed",
@@ -235,7 +235,7 @@
     {
         "code": "01014",
         "cost": 2,
-        "deck_limit": 3,
+        "deck_limit": 6,
         "faction_code": "neutral",
         "flavor": "",
         "illustrator": "Fixed",
