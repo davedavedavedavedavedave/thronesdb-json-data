@@ -2329,7 +2329,7 @@
         "illustrator": "Uncommon",
         "type_code": "event",
         "cost": 0,
-        "faction_code": "neutral",
+        "faction_code": "martell",
         "name": "I Am a Bloodthirsty Man",
         "is_unique": false,
         "traits": "",
