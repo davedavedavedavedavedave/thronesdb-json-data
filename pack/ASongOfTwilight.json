@@ -2364,7 +2364,7 @@
         "type_code": "event",
         "cost": 0,
         "faction_code": "greyjoy",
-        "name": "",
+        "name": "King Balon's Command",
         "is_unique": false,
         "traits": "",
         "is_loyal": true,
