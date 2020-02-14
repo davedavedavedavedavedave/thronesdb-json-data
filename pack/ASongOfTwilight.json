@@ -2249,7 +2249,7 @@
         "is_unique": false,
         "traits": "",
         "is_loyal": false,
-        "text": "<b>Response:</b> after a dommed character you control is killed, each opponent must choose and discard from play a location he or she controls, if able.",
+        "text": "<b>Response:</b> after a doomed character you control is killed, each opponent must choose and discard from play a location he or she controls, if able.",
         "flavor": "\"They grow stronger as the days grow shorter and the nights colder.\" -Mance Rayder",
         "pack_code": "ASongOfTwilight",
         "deck_limit": 6,
