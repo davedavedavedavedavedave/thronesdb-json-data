@@ -1,5 +1,5 @@
 [
-  {
+    {
         "position": 1,
         "code": "04001",
         "illustrator": "Rare",
@@ -16,7 +16,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 2,
         "code": "04002",
         "illustrator": "Common",
@@ -33,7 +33,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 3,
         "code": "04003",
         "illustrator": "Rare",
@@ -54,7 +54,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 4,
         "code": "04004",
         "illustrator": "Rare",
@@ -75,7 +75,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 5,
         "code": "04005",
         "illustrator": "Uncommon",
@@ -96,7 +96,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 6,
         "code": "04006",
         "illustrator": "Uncommon",
@@ -117,7 +117,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 7,
         "code": "04007",
         "illustrator": "Uncommon",
@@ -138,7 +138,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 8,
         "code": "04008",
         "illustrator": "Common",
@@ -159,7 +159,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 9,
         "code": "04009",
         "illustrator": "Rare",
@@ -180,7 +180,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 10,
         "code": "04010",
         "illustrator": "Common",
@@ -201,7 +201,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 11,
         "code": "04011",
         "illustrator": "Common",
@@ -222,7 +222,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 12,
         "code": "04012",
         "illustrator": "Uncommon",
@@ -239,7 +239,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 13,
         "code": "04013",
         "illustrator": "Rare",
@@ -256,7 +256,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 14,
         "code": "04014",
         "illustrator": "Uncommon",
@@ -273,7 +273,7 @@
         "quantity": 1,
         "deck_limit": 6
     },
-  {
+    {
         "position": 15,
         "code": "04015",
         "illustrator": "Common",
@@ -286,6 +286,297 @@
         "is_loyal": false,
         "text": "<b>Challenges:</b> kneel Fields of Ice to choose a defending character. Until the end of the phase, that character gets +5 STR.",
         "flavor": "It looked all stones and glass, though they could hear the sound of water running beneath the frozen surface.",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 16,
+        "code": "02016",
+        "illustrator": "Rare",
+        "type_code": "attachment",
+        "cost": 2,
+        "faction_code": "lannister",
+        "name": "A Better Offer",
+        "is_unique": false,
+        "traits": "Condition.",
+        "is_loyal": false,
+        "text": "Attach to a character with printed STR 2 or lower.\nTake control of attached character.",
+        "flavor": "\"Is that all? My sister will pay ten times as much.\" -Jaime Lannister",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 17,
+        "code": "02017",
+        "illustrator": "Common",
+        "type_code": "attachment",
+        "cost": 1,
+        "faction_code": "lannister",
+        "name": "Mad with Power",
+        "is_unique": false,
+        "traits": "Condition.",
+        "is_loyal": false,
+        "text": "Power on attached character does not count towards its controller's total power.\nAttached character's controller needs X additional power to win the game, where X is the amount of power on attached character.",
+        "flavor": "",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 18,
+        "code": "02018",
+        "illustrator": "Common",
+        "type_code": "attachment",
+        "cost": 1,
+        "faction_code": "lannister",
+        "name": "Varys's Counsel",
+        "is_unique": false,
+        "traits": "Boon.",
+        "is_loyal": false,
+        "text": "Attached character gets +2 STR.\nWhile attached character has an [intrigue] icon, it gains stealth.",
+        "flavor": "\"It is so very good to see you looking so strong and well,\" Varys said with his slimiest smile.",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 19,
+        "code": "02019",
+        "illustrator": "Uncommon",
+        "type_code": "character",
+        "cost": 3,
+        "faction_code": "lannister",
+        "name": "Bronn",
+        "is_unique": true,
+        "is_military": true,
+        "is_intrigue": false,
+        "is_power": true,
+        "strength": 3,
+        "traits": "Knight. Mercenary.",
+        "is_loyal": false,
+        "text": "No attachments. Deadly.\n<b>Any phase:</b> kneel 2 influence to choose a character. Until the end of the phase, if that character would be killed and Bronn is kneeling, stand Bronn instead of killing that character.",
+        "flavor": "",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 20,
+        "code": "02020",
+        "illustrator": "Rare",
+        "type_code": "character",
+        "cost": 3,
+        "faction_code": "lannister",
+        "name": "Grand Maester Pycelle",
+        "is_unique": true,
+        "is_military": false,
+        "is_intrigue": true,
+        "is_power": true,
+        "strength": 2,
+        "traits": "Maester.",
+        "is_loyal": false,
+        "text": "<b>Response:</b> after an opponent's effect reveals one or more cards, reveal the top card of your deck and put it into your hand (limit 3 per phase).",
+        "flavor": "Pycelle is a toad. But better a Lannister toad than a Tyrell toad, no?",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 21,
+        "code": "02021",
+        "illustrator": "Rare",
+        "type_code": "character",
+        "cost": 4,
+        "faction_code": "lannister",
+        "name": "Ser Addam Marbrand",
+        "is_unique": true,
+        "is_military": true,
+        "is_intrigue": false,
+        "is_power": true,
+        "strength": 3,
+        "traits": "Lord. Knight.",
+        "is_loyal": false,
+        "text": "No attachments.\nWhile you control more <i>Lord</i> character than any opponent, your <i>Army</i> characters do not kneel to attack or defend.",
+        "flavor": "",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 22,
+        "code": "02022",
+        "illustrator": "Common",
+        "type_code": "character",
+        "cost": 1,
+        "faction_code": "lannister",
+        "name": "Bronn's Hireling",
+        "is_unique": false,
+        "is_military": false,
+        "is_intrigue": true,
+        "is_power": false,
+        "strength": 1,
+        "traits": "Ally.",
+        "is_loyal": false,
+        "text": "Deadly.",
+        "flavor": "\"Once they're dead, they don't come back.\" -Bronn",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 23,
+        "code": "02023",
+        "illustrator": "Rare",
+        "type_code": "character",
+        "cost": 7,
+        "faction_code": "lannister",
+        "name": "Defenders of King's Landing",
+        "is_unique": false,
+        "is_military": true,
+        "is_intrigue": false,
+        "is_power": true,
+        "strength": 7,
+        "traits": "Army.",
+        "is_loyal": false,
+        "text": "No attachments. Deadly. Stealth.\n<b>Response:</b> after Defenders of King's Landing comes into play or leaves play, choose and kneel up to 2 characters.",
+        "flavor": "",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 24,
+        "code": "02024",
+        "illustrator": "Uncommon",
+        "type_code": "character",
+        "cost": 4,
+        "faction_code": "lannister",
+        "name": "House Brax Footmen",
+        "is_unique": false,
+        "is_military": true,
+        "is_intrigue": false,
+        "is_power": false,
+        "strength": 3,
+        "traits": "Army.",
+        "is_loyal": false,
+        "text": "No attachments. Deadly.\n<b>Response:</b> after House Brax Footmen's STR has been raised or lowered, choose and kneel a character with STR 3 or lower.",
+        "flavor": "",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 25,
+        "code": "02025",
+        "illustrator": "Common",
+        "type_code": "character",
+        "cost": 3,
+        "faction_code": "lannister",
+        "name": "Lion Lord",
+        "is_unique": false,
+        "is_military": true,
+        "is_intrigue": true,
+        "is_power": true,
+        "strength": 2,
+        "traits": "Lord.",
+        "is_loyal": false,
+        "text": "While Lion Lord is participating in a challenge, other participating characters with printed STR 1 or lower do not count their STR.",
+        "flavor": "\"By what right does the wolf judge the lion? By what right?\" -Jaime Lannister",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 26,
+        "code": "02026",
+        "illustrator": "Uncommon",
+        "type_code": "character",
+        "cost": 2,
+        "faction_code": "lannister",
+        "name": "Master Spy",
+        "is_unique": false,
+        "is_military": false,
+        "is_intrigue": true,
+        "is_power": false,
+        "strength": 1,
+        "traits": "Ally.",
+        "is_loyal": false,
+        "text": "Stealth.\nOpponents with less than 4 total STR in their dead pile must play with their hands revealed.",
+        "flavor": "",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 27,
+        "code": "02027",
+        "illustrator": "Common",
+        "type_code": "character",
+        "cost": 4,
+        "faction_code": "lannister",
+        "name": "The Halfman's Horde",
+        "is_unique": false,
+        "is_military": true,
+        "is_intrigue": false,
+        "is_power": true,
+        "strength": 6,
+        "traits": "Army. Clansman.",
+        "is_loyal": false,
+        "text": "No attachments. Deadly.\nThe Halfman's Horde's STR cannot be lowered.\n<b>Any phase:</b> if Tyrion Lannister is in play, kneel the Halfman's Horde and choose a location. That location gains the <i>Battlefield</i> trait until the end of the phase.\n[doomed]",
+        "flavor": "",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 28,
+        "code": "02028",
+        "illustrator": "Uncommon",
+        "type_code": "location",
+        "cost": 2,
+        "faction_code": "lannister",
+        "name": "Fair Isle",
+        "is_unique": true,
+        "traits": "Westeros.",
+        "is_loyal": false,
+        "text": "Characters with STR 6 or higher gain an [intrigue] icon and do not kneel to attack during [intrigue] challenges.",
+        "flavor": "",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 29,
+        "code": "02029",
+        "illustrator": "Rare",
+        "type_code": "location",
+        "cost": 2,
+        "faction_code": "lannister",
+        "name": "The Blackwater Shores",
+        "is_unique": true,
+        "traits": "Battlefield.",
+        "is_loyal": false,
+        "text": "Deathbound.\n<b>Response:</b> after The Blackwater Shores comes into play, return all other <i>Battlefield</i> locations to their owners' hands.\nWhile you have 4 or more total STR in your dead pile, lower the cost for you to play characters by 1.\n[doomed]",
+        "flavor": "",
+        "pack_code": "ASongOfNight",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
+        "position": 30,
+        "code": "02030",
+        "illustrator": "Uncommon",
+        "type_code": "location",
+        "cost": 1,
+        "faction_code": "lannister",
+        "name": "Banks of the Tumblestone",
+        "is_unique": false,
+        "traits": "Battlefield.",
+        "is_loyal": false,
+        "text": "After a player loses a challenge by 4 or more total STR, he or she must choose and kneel a character he or she controls.",
+        "flavor": "Through the stone, she could hear the faint rush of the Tumblestone.",
         "pack_code": "ASongOfNight",
         "quantity": 1,
         "deck_limit": 6
