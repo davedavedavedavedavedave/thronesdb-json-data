@@ -292,7 +292,7 @@
     },
     {
         "position": 16,
-        "code": "02016",
+        "code": "04016",
         "illustrator": "Rare",
         "type_code": "attachment",
         "cost": 2,
@@ -309,7 +309,7 @@
     },
     {
         "position": 17,
-        "code": "02017",
+        "code": "04017",
         "illustrator": "Common",
         "type_code": "attachment",
         "cost": 1,
@@ -326,7 +326,7 @@
     },
     {
         "position": 18,
-        "code": "02018",
+        "code": "04018",
         "illustrator": "Common",
         "type_code": "attachment",
         "cost": 1,
@@ -343,7 +343,7 @@
     },
     {
         "position": 19,
-        "code": "02019",
+        "code": "04019",
         "illustrator": "Uncommon",
         "type_code": "character",
         "cost": 3,
@@ -364,7 +364,7 @@
     },
     {
         "position": 20,
-        "code": "02020",
+        "code": "04020",
         "illustrator": "Rare",
         "type_code": "character",
         "cost": 3,
@@ -385,7 +385,7 @@
     },
     {
         "position": 21,
-        "code": "02021",
+        "code": "04021",
         "illustrator": "Rare",
         "type_code": "character",
         "cost": 4,
@@ -406,7 +406,7 @@
     },
     {
         "position": 22,
-        "code": "02022",
+        "code": "04022",
         "illustrator": "Common",
         "type_code": "character",
         "cost": 1,
@@ -427,7 +427,7 @@
     },
     {
         "position": 23,
-        "code": "02023",
+        "code": "04023",
         "illustrator": "Rare",
         "type_code": "character",
         "cost": 7,
@@ -448,7 +448,7 @@
     },
     {
         "position": 24,
-        "code": "02024",
+        "code": "04024",
         "illustrator": "Uncommon",
         "type_code": "character",
         "cost": 4,
@@ -469,7 +469,7 @@
     },
     {
         "position": 25,
-        "code": "02025",
+        "code": "04025",
         "illustrator": "Common",
         "type_code": "character",
         "cost": 3,
@@ -490,7 +490,7 @@
     },
     {
         "position": 26,
-        "code": "02026",
+        "code": "04026",
         "illustrator": "Uncommon",
         "type_code": "character",
         "cost": 2,
@@ -511,7 +511,7 @@
     },
     {
         "position": 27,
-        "code": "02027",
+        "code": "04027",
         "illustrator": "Common",
         "type_code": "character",
         "cost": 4,
@@ -532,7 +532,7 @@
     },
     {
         "position": 28,
-        "code": "02028",
+        "code": "04028",
         "illustrator": "Uncommon",
         "type_code": "location",
         "cost": 2,
@@ -549,7 +549,7 @@
     },
     {
         "position": 29,
-        "code": "02029",
+        "code": "04029",
         "illustrator": "Rare",
         "type_code": "location",
         "cost": 2,
@@ -566,7 +566,7 @@
     },
     {
         "position": 30,
-        "code": "02030",
+        "code": "04030",
         "illustrator": "Uncommon",
         "type_code": "location",
         "cost": 1,
