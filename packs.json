@@ -24,6 +24,14 @@
         "size": 1
     },
     {
+        "cgdb_id": 4,
+        "code": "ASongOfNight",
+        "cycle_code": "winter",
+        "date_release": "2006-01-01",
+        "name": "A Song of Night",
+        "size": 1
+    },
+    {
         "cgdb_id": 5,
         "code": "WinterPromotion",
         "cycle_code": "winter",
