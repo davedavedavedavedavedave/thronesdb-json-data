@@ -1755,7 +1755,7 @@
         "type_code": "character",
         "cost": 1,
         "faction_code": "neutral",
-        "name": "Samwell Taryl",
+        "name": "Samwell Tarly",
         "is_unique": true,
         "is_military": false,
         "is_intrigue": true,
