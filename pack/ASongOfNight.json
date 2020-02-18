@@ -711,7 +711,7 @@
         "is_military": true,
         "is_intrigue": false,
         "is_power": true,
-        "strength": 0,
+        "strength": 7,
         "traits": "Army. House Tyrell.",
         "is_loyal": false,
         "text": "No attachments. Deadly.\nWhile Ser Garlan's Battalion is participating in a challenge, all other participating non-<i>Army</i> characters lose deadly.\n[doomed]",
