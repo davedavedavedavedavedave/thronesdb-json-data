@@ -1275,7 +1275,7 @@
         "strength": 3,
         "deck_limit": 6,
         "traits": "Bastard. Sand Snake.",
-        "text": "<b>Response:</b> kneel 1 influence to cancel a triggered effect that chooses a <i>Sand Snake character as a target. Then, stand Nymeria Sand.\n[doomed]",
+        "text": "<b>Response:</b> kneel 1 influence to cancel a triggered effect that chooses a <i>Sand Snake</i> character as a target. Then, stand Nymeria Sand.\n[doomed]",
         "flavor": "",
         "pack_code": "ASongOfTwilight",
         "quantity": 1
