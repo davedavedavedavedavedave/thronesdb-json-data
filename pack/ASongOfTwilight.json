@@ -2419,8 +2419,8 @@
         "is_unique": false,
         "traits": "",
         "is_loyal": true,
-        "text": "House Stark only.",
-        "flavor": "<b>Challenges:</b> kneel your House card to initiate an additional challenge of your choice this phase (limit once per round).",
+        "text": "House Stark only.\n<b>Challenges:</b> kneel your House card to initiate an additional challenge of your choice this phase (limit once per round).",
+        "flavor": "\"No.\" Said Ned. \"Jory, take the girls back to their rooms and bring me Ice.\"",
         "pack_code": "ASongOfTwilight",
         "deck_limit": 6,
         "quantity": 1
