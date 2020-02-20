@@ -575,7 +575,7 @@
         "is_unique": false,
         "traits": "Battlefield.",
         "is_loyal": false,
-        "text": "After a player loses a challenge by 4 or more total STR, he or she must choose and kneel a character he or she controls.",
+        "text": "After a player loses a challenge by 4 or more total STR, he or she must choose and kneel a standing character he or she controls.",
         "flavor": "Through the stone, she could hear the faint rush of the Tumblestone.",
         "pack_code": "ASongOfNight",
         "quantity": 1,
