@@ -2112,10 +2112,10 @@
         "faction_code": "neutral",
         "name": "The Skirling Pass",
         "is_unique": false,
-        "traits": "Each character with the lowest STR in play cannot be declared as an attacker or defender.",
+        "traits": "The North.",
         "is_loyal": false,
-        "text": "The wind cut like a knife up here, and shrilled in the night like a mother mourning her lost children.",
-        "flavor": "",
+        "text": "Each character with the lowest STR in play cannot be declared as an attacker or defender.",
+        "flavor": "The wind cut like a knife up here, and shrilled in the night like a mother mourning her lost children.",
         "pack_code": "ASongOfNight",
         "quantity": 1,
         "deck_limit": 6
