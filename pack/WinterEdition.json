@@ -1979,7 +1979,7 @@
         "type_code": "location",
         "cost": 1,
         "faction_code": "targaryen",
-        "name": "Eastern Feifdoms",
+        "name": "Eastern Fiefdoms",
         "is_unique": false,
         "deck_limit": 6,
         "traits": "Free Cities.",
