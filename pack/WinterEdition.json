@@ -60,7 +60,7 @@
         "name": "Arya Stark",
         "is_unique": false,
         "is_military": false,
-        "is_intrigue": true,
+        "is_intrigue": false,
         "is_power": true,
         "strength": 2,
         "deck_limit": 6,
