@@ -2165,7 +2165,7 @@
         "is_unique": false,
         "traits": "",
         "is_loyal": false,
-        "text": "Play only if there is at least one <i>Others</i. plot card revealed.\n<b>Challenges:</b> kneel X influence to choose and stand X [baratheon] characters. Until the end of the phase, those characters gain the <i>Night's Watch</i> trait and deadly.",
+        "text": "Play only if there is at least one <i>Others</i>. plot card revealed.\n<b>Challenges:</b> kneel X influence to choose and stand X [baratheon] characters. Until the end of the phase, those characters gain the <i>Night's Watch</i> trait and deadly.",
         "flavor": "",
         "pack_code": "ASongOfNight",
         "quantity": 1,
