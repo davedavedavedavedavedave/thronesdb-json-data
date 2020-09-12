@@ -1,5 +1,26 @@
 [
     {
+        "position": 7,
+        "code": "05007",
+        "illustrator": "Promo",
+        "type_code": "character",
+        "cost": 2,
+        "faction_code": "neutral",
+        "name": "Band of Free Folk",
+        "is_unique": false,
+        "is_military": true,
+        "is_intrigue": false,
+        "is_power": false,
+        "strength": 2,
+        "traits": "Wildling.",
+        "is_loyal": false,
+        "text": "Discard Band of Free Folk from play any time there are more <i>Night's Watch</i> characters than <i>Wildling</i> characters in play.\nWhile there are more <i>Wildling</i> characters than <i>Night's Watch</i> characters in play, Band of Free Folk cannot be killed and gains a [power] icon and stealth",
+        "flavor": "",
+        "pack_code": "WinterPromotion",
+        "quantity": 1,
+        "deck_limit": 6
+    },
+    {
         "position": 8,
         "code": "05008",
         "illustrator": "Promo",
@@ -15,5 +36,22 @@
         "pack_code": "WinterPromotion",
         "quantity": 1,
         "is_loyal": false
+    },
+    {
+        "position": 9,
+        "code": "05009",
+        "illustrator": "Promo",
+        "type_code": "event",
+        "cost": 0,
+        "faction_code": "neutral",
+        "name": "No Peace in Westeros",
+        "is_unique": false,
+        "traits": "",
+        "is_loyal": false,
+        "text": "<b>Dominance:</b> kneel 1 influence to choose and kill 2 characters, each with a different House affiliation, controlled by the same player.",
+        "flavor": "",
+        "pack_code": "WinterPromotion",
+        "quantity": 1,
+        "deck_limit": 6
     }
 ]
